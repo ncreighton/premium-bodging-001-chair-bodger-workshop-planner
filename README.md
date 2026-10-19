@@ -1,0 +1,2 @@
+# premium-bodging-001-chair-bodger-workshop-planner
+Tired of losing track of which greenwood logs are ready to be turned and which chair orders are piling up? The Chair Bodger Workshop Planner is the first digital system designed specifically for the chaos of a bodger’s workshop.  Stop scribbling on scrap wood. This Notion template centralizes your timber inventory, project stages, tool maintenance,
